@@ -5,6 +5,7 @@ import java.io.Serializable;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
 public class Brand implements Serializable{
@@ -51,5 +52,18 @@ public class Brand implements Serializable{
 		this.code = code;
 	}
 	
+	
+	public Brand(Long id, String name, Integer code){
+	
+		super();
+		this.id = id;
+		this.name = name;
+		this.code = code;
+	}
+	
+	
+	public Brand(){
+	
+	}
 	
 }
