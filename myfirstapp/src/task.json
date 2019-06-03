@@ -1,0 +1,34 @@
+{
+    "tareas":[
+        {
+            "titulo":"tarea 1",
+            "responsable":"Daro",
+            "descripcion": "asd",
+            "prioridad": "baja"
+        },
+        {
+            "titulo":"tarea 2",
+            "responsable":"Daro2",
+            "descripcion": "asd",
+            "prioridad": "media"
+        },
+        {
+            "titulo":"tarea 3",
+            "responsable":"Daro3",
+            "descripcion": "asd",
+            "prioridad": "alta"
+        },
+        {
+            "titulo":"tarea 4",
+            "responsable":"Daro4",
+            "descripcion": "asd",
+            "prioridad": "alta"
+        },
+        {
+            "titulo":"tarea 5",
+            "responsable":"Daro5",
+            "descripcion": "asd",
+            "prioridad": "alta"
+        }
+    ]
+}
